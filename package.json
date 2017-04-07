@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "split one iterable into two based on a test function",
   "main": "iterable-sieve.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisdickinson/iterables-sieve.git"
+  },
   "scripts": {
     "update-contrib": "weallcontribute -o . && git add CONTRIBUTING.md && git commit -m 'docs(contributing): updated CONTRIBUTING.md'",
     "update-coc": "weallbehave -o . && git add CODE_OF_CONDUCT.md && git commit -m 'docs(coc): updated CODE_OF_CONDUCT.md'",
