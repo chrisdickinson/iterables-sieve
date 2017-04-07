@@ -1,6 +1,6 @@
 {
   "name": "@iterables/sieve",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "split one iterable into two based on a test function",
   "main": "iterable-sieve.js",
   "repository": {
@@ -20,6 +20,7 @@
   "license": "MIT",
   "devDependencies": {
     "standard": "^10.0.1",
+    "standard-version": "^4.0.0",
     "tap": "^10.3.1",
     "weallbehave": "^1.0.3",
     "weallcontribute": "^1.0.8"
